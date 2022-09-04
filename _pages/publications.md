@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: publications
 description: #The articles are posted for non-commercial use only.
-years: [preprint, 2022, 2021, 2020, 2019, 2017, 2016, 2015]
+years: [preprints, 2022, 2021, 2020, 2019, 2017, 2016, 2015]
 nav: true
 ---
 
